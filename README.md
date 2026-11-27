@@ -9,7 +9,7 @@
   <a href="https://x.com/MayankQnAPe">X</a>
 </p>
 
-I build the plumbing that makes LLMs useful in production: servers that give agents tools safely, retrieval that works for Indian users in Hindi, English and the Hinglish in between, and checks that keep AI output honest. By day I'm building [Ur Next Door](https://urnextdoor.com), a community platform for Indian neighbourhoods, cities and interest groups.
+I build the plumbing that makes LLMs useful in production. That means servers that hand agents tools without handing them the keys, and retrieval that understands how India actually types, Hinglish included. By day I'm building [Ur Next Door](https://urnextdoor.com), a community platform for Indian neighbourhoods and interest groups.
 
 ## Open source
 
@@ -34,10 +34,13 @@ A launch post full of stock phrases scores 96 out of 100, with every hit explain
 
 ## How I build
 
-- **Numbers come from runs.** Every figure on this page (test counts, eval scores, demo output) is copied from a real run, not estimated.
-- **Secure by default.** Hashed tokens with scopes, least-privilege CI permissions, untrusted input treated as untrusted.
-- **India is not an edge case.** Devanagari, Hinglish and Windows terminals get tested, not assumed.
-- **Small enough to read.** mcp-kit's core is under 1,000 lines. If you can't read it in one sitting, it's too big.
+Every number on this page comes from a real run: the test counts, the eval score, the terminal output above. Nothing is estimated.
+
+Security is the default, not a feature. Tokens are stored hashed and carry scopes; CI jobs get the least permission they need.
+
+India is not an edge case. Devanagari text and Hinglish queries get tested on Windows terminals too, because that's where a lot of Indian developers work.
+
+Small beats clever. mcp-kit's core is under 1,000 lines, and you can read it in one sitting.
 
 ## Stack
 
@@ -45,7 +48,7 @@ A launch post full of stock phrases scores 96 out of 100, with every hit explain
   <img alt="TypeScript, Python, Node.js, PHP, MySQL, FastAPI, Docker, Linux, GitHub Actions" src="https://skillicons.dev/icons?i=ts,py,nodejs,php,mysql,fastapi,docker,linux,githubactions&perline=9" height="40">
 </p>
 
-Plus the Claude API, Model Context Protocol, and hybrid BM25 + dense retrieval.
+Plus the Claude API and Model Context Protocol on the AI side.
 
 ## Try one in a minute
 
