@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="t d">
+<title id="t">Mayank: AI agents, MCP servers and Hindi-first retrieval</title>
+<desc id="d">Builder of Ur Next Door, based in Bangalore. A faint grid of Devanagari and Latin letters, with two cross-script matches highlighted: the Devanagari letter ka linked to K, and ba linked to B.</desc>
+<style>
+.l,.d{text-anchor:middle;dominant-baseline:central;font-size:22px}
+.l{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace}
+.d{font-family:'Noto Sans Devanagari', 'Nirmala UI', 'Mangal', 'Kohinoor Devanagari', 'Devanagari Sangam MN', sans-serif}
+.hits{animation:breathe 8s ease-in-out infinite}
+@keyframes breathe{0%,100%{opacity:1}50%{opacity:.55}}
+@media (prefers-reduced-motion: reduce){.hits{animation:none}}
+</style>
+<defs>
+<linearGradient id="fade" x1="740" y1="0" x2="1010" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#fff" stop-opacity="0"/>
+<stop offset="1" stop-color="#fff" stop-opacity="1"/>
+</linearGradient>
+<mask id="m"><rect x="0" y="0" width="1280" height="320" fill="url(#fade)"/></mask>
+</defs>
+<rect x="0.5" y="0.5" width="1279" height="319" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
+<g mask="url(#m)" fill="#59636e" fill-opacity="0.34">
+<text x="800" y="78" class="d">ग</text>
+<text x="850" y="78" class="l">A</text>
+<text x="900" y="78" class="d">ख</text>
+<text x="950" y="78" class="l">C</text>
+<text x="1000" y="78" class="d">घ</text>
+<text x="1050" y="78" class="l">D</text>
+<text x="1100" y="78" class="d">च</text>
+<text x="1150" y="78" class="l">E</text>
+<text x="1200" y="78" class="d">छ</text>
+<text x="800" y="124" class="l">F</text>
+<text x="850" y="124" class="d">ज</text>
+<text x="900" y="124" class="l">G</text>
+<text x="950" y="124" class="d">झ</text>
+<text x="1000" y="124" class="l">H</text>
+<text x="1100" y="124" class="l">J</text>
+<text x="1150" y="124" class="d">ट</text>
+<text x="1200" y="124" class="l">L</text>
+<text x="800" y="170" class="d">ठ</text>
+<text x="850" y="170" class="l">M</text>
+<text x="900" y="170" class="d">ड</text>
+<text x="950" y="170" class="l">N</text>
+<text x="1000" y="170" class="d">ढ</text>
+<text x="1050" y="170" class="l">P</text>
+<text x="1100" y="170" class="d">त</text>
+<text x="1200" y="170" class="d">थ</text>
+<text x="800" y="216" class="l">Q</text>
+<text x="850" y="216" class="d">द</text>
+<text x="900" y="216" class="l">R</text>
+<text x="950" y="216" class="d">ध</text>
+<text x="1000" y="216" class="l">S</text>
+<text x="1050" y="216" class="d">न</text>
+<text x="1150" y="216" class="d">प</text>
+<text x="1200" y="216" class="l">T</text>
+<text x="800" y="262" class="d">फ</text>
+<text x="850" y="262" class="l">U</text>
+<text x="900" y="262" class="d">भ</text>
+<text x="950" y="262" class="l">V</text>
+<text x="1050" y="262" class="l">W</text>
+<text x="1100" y="262" class="d">म</text>
+<text x="1150" y="262" class="l">X</text>
+<text x="1200" y="262" class="d">य</text>
+</g>
+<g class="hits">
+<g fill="none" stroke="#bc4c00" stroke-width="1.25" stroke-opacity=".7">
+<path d="M1068 124 C1100 124 1100 170 1132 170"/>
+<path d="M1018 262 C1050 262 1050 216 1082 216"/>
+</g>
+<g fill="#bc4c00" fill-opacity=".1" stroke="#bc4c00" stroke-opacity=".75">
+<rect x="1032" y="106" width="36" height="36" rx="8"/>
+<rect x="1132" y="152" width="36" height="36" rx="8"/>
+<rect x="982" y="244" width="36" height="36" rx="8"/>
+<rect x="1082" y="198" width="36" height="36" rx="8"/>
+</g>
+<g fill="#bc4c00">
+<text x="1050" y="124" class="d">क</text>
+<text x="1150" y="170" class="l">K</text>
+<text x="1000" y="262" class="d">ब</text>
+<text x="1100" y="216" class="l">B</text>
+</g>
+</g>
+<text x="72" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="600" letter-spacing="-1.5" fill="#1f2328">Mayank</text>
+<text x="74" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#31363c">AI agents, MCP servers and Hindi-first retrieval.</text>
+<text x="74" y="246" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">Builder of Ur Next Door · Bangalore</text>
+</svg>

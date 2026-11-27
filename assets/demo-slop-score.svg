@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="380" viewBox="0 0 640 380" role="img" aria-labelledby="t" xml:space="preserve">
+<title id="t">slop-score launch-post.md: score 96.2 / 100 (heavy), with per-detector breakdown and findings</title>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:12px;fill:#c9d1d9}
+.deva{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'Noto Sans Devanagari', 'Nirmala UI', 'Mangal', monospace}
+.d{fill:#7d8590}.c{fill:#56d4dd}.g{fill:#3fb950}.r{fill:#ff7b72;font-weight:700}
+.b{font-weight:700;fill:#e6edf3}.bd{font-weight:700;fill:#7d8590}.k{fill:#0d1117}
+.p{fill:#3fb950;font-weight:700}.cmd{fill:#e6edf3}.ttl{fill:#7d8590;font-size:12px;text-anchor:middle}
+.cur{fill:#c9d1d9;animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.cur{animation:none}}
+</style>
+<rect x="0.5" y="0.5" width="639" height="379" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 34H639" stroke="#21262d"/>
+<circle cx="20" cy="17" r="5.5" fill="#484f58"/><circle cx="38" cy="17" r="5.5" fill="#484f58"/><circle cx="56" cy="17" r="5.5" fill="#484f58"/>
+<text x="320.0" y="21" class="ttl">~/slop-score</text>
+<path d="M34.4 70H21.6V268H612.0V70H145.6" fill="none" stroke="#484f58"/>
+<text x="18.0" y="56" class="p">$</text><text x="32.4" y="56" class="cmd" textLength="180.0" lengthAdjust="spacing">slop-score launch-post.md</text>
+<text x="39.6" y="92" class="r" textLength="28.8" lengthAdjust="spacing">96.2</text><text x="75.6" y="92" textLength="36.0" lengthAdjust="spacing">/ 100</text><text x="126.0" y="92" class="r" textLength="36.0" lengthAdjust="spacing">heavy</text><text x="183.6" y="92" class="d" textLength="151.2" lengthAdjust="spacing">61 words, 5 sentences</text>
+
+<text x="32.4" y="128" class="bd" textLength="57.6" lengthAdjust="spacing">detector</text><text x="147.6" y="128" class="bd" textLength="43.2" lengthAdjust="spacing">weight</text><text x="205.2" y="128" class="bd" textLength="43.2" lengthAdjust="spacing">signal</text><text x="262.8" y="128" class="bd" textLength="43.2" lengthAdjust="spacing">points</text><text x="320.4" y="128" class="bd" textLength="21.6" lengthAdjust="spacing">why</text>
+<text x="32.4" y="146" class="c" textLength="93.6" lengthAdjust="spacing">stock-phrases</text><text x="162.0" y="146" class="d" textLength="28.8" lengthAdjust="spacing">0.70</text><text x="219.6" y="146" class="d" textLength="28.8" lengthAdjust="spacing">0.94</text><text x="277.2" y="146" class="b" textLength="28.8" lengthAdjust="spacing">31.7</text><text x="320.4" y="146" class="d" textLength="244.8" lengthAdjust="spacing">3 hits, 5.7 weighted per 100 words</text>
+<text x="32.4" y="164" class="c" textLength="100.8" lengthAdjust="spacing">llm-vocabulary</text><text x="162.0" y="164" class="d" textLength="28.8" lengthAdjust="spacing">0.60</text><text x="219.6" y="164" class="d" textLength="28.8" lengthAdjust="spacing">0.93</text><text x="277.2" y="164" class="b" textLength="28.8" lengthAdjust="spacing">23.8</text><text x="320.4" y="164" class="d" textLength="244.8" lengthAdjust="spacing">5 hits, 6.6 weighted per 100 words</text>
+<text x="32.4" y="182" class="c" textLength="50.4" lengthAdjust="spacing">framing</text><text x="162.0" y="182" class="d" textLength="28.8" lengthAdjust="spacing">0.60</text><text x="219.6" y="182" class="d" textLength="28.8" lengthAdjust="spacing">0.83</text><text x="277.2" y="182" class="b" textLength="28.8" lengthAdjust="spacing">20.4</text><text x="320.4" y="182" class="d" textLength="144.0" lengthAdjust="spacing">2 formulaic frame(s)</text>
+<text x="32.4" y="200" class="c" textLength="50.4" lengthAdjust="spacing">em-dash</text><text x="162.0" y="200" class="d" textLength="28.8" lengthAdjust="spacing">0.35</text><text x="219.6" y="200" class="d" textLength="28.8" lengthAdjust="spacing">0.92</text><text x="277.2" y="200" class="b" textLength="28.8" lengthAdjust="spacing">11.3</text><text x="320.4" y="200" class="d" textLength="252.0" lengthAdjust="spacing">3.3 dashes per 100 words (threshold</text>
+<text x="320.4" y="218" class="d" textLength="28.8" lengthAdjust="spacing">0.8)</text>
+<text x="32.4" y="236" class="c" textLength="79.2" lengthAdjust="spacing">transitions</text><text x="162.0" y="236" class="d" textLength="28.8" lengthAdjust="spacing">0.40</text><text x="219.6" y="236" class="d" textLength="28.8" lengthAdjust="spacing">0.66</text><text x="284.4" y="236" class="b" textLength="21.6" lengthAdjust="spacing">9.1</text><text x="320.4" y="236" class="d" textLength="237.6" lengthAdjust="spacing">1 hit, 1.6 weighted per 100 words</text>
+<text x="32.4" y="254" class="d">…</text>
+<text x="39.6" y="74" class="b" textLength="100.8" lengthAdjust="spacing">launch-post.md</text>
+<text x="46.8" y="290" class="d" textLength="21.6" lengthAdjust="spacing">1:1</text><text x="82.8" y="290" class="c" textLength="50.4" lengthAdjust="spacing">framing</text><text x="147.6" y="290" textLength="324.0" lengthAdjust="spacing">Generic opener: 'In today's fast-paced world'</text>
+<rect x="81.8" y="296" width="196.4" height="16" rx="2" fill="#e3b341"/>
+<text x="82.8" y="308" class="k" textLength="194.4" lengthAdjust="spacing">In today's fast-paced world</text><text x="277.2" y="308" textLength="309.6" lengthAdjust="spacing">, shipping great software is more important</text><text x="594.0" y="308" class="d">…</text>
+<text x="82.8" y="326" class="g" textLength="424.8" lengthAdjust="spacing">-&gt; Open with your actual point, not the state of the world.</text>
+<text x="82.8" y="344" class="d">…</text>
+<text x="18.0" y="362" class="p">$</text><rect class="cur" x="32.4" y="351" width="7" height="14"/>
+</svg>

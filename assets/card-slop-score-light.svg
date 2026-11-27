@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190" role="img" aria-labelledby="t">
+<title id="t">slop-score: Explainable linter that flags AI-sounding prose and suggests fixes. v0.1.0, 136 tests, pre-commit hook. Written in Python.</title>
+<style>
+.chip{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;font-size:12px;text-anchor:middle;dominant-baseline:central;fill:#31363c}
+</style>
+<rect x="0.5" y="0.5" width="599" height="189" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="28" y="50" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="20" font-weight="600" fill="#1f2328">slop-score</text>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#31363c">
+<text x="28" y="85">Explainable linter that flags AI-sounding prose</text>
+<text x="28" y="107">and suggests fixes.</text>
+</g>
+<rect x="28.5" y="136.5" width="62" height="26" rx="13" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text x="59.5" y="150" class="chip">v0.1.0</text>
+<rect x="98.5" y="136.5" width="84" height="26" rx="13" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text x="140.5" y="150" class="chip">136 tests</text>
+<rect x="190.5" y="136.5" width="128" height="26" rx="13" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text x="254.5" y="150" class="chip">pre-commit hook</text>
+
+<circle cx="514" cy="44.5" r="6" fill="#3572A5"/>
+<text x="526" y="49" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#59636e">Python</text>
+</svg>
