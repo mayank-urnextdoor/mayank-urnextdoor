@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="200" viewBox="0 0 1220 200" role="img" aria-labelledby="t">
+<title id="t">karya-ai (featured): AI agents that run customer messaging for Indian small businesses on WhatsApp and email, and ask the owner before anything risky. 8 business packs, 510 tests. Written in Python.</title>
+<style>
+.chip{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;font-size:12px;text-anchor:middle;dominant-baseline:central;fill:#c9d1d9}
+</style>
+<rect x="0.5" y="0.5" width="1219" height="199" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="4" height="199" rx="2" fill="#f0883e"/>
+<text x="28" y="52" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="22" font-weight="600" fill="#e6edf3">karya-ai</text>
+<text x="146" y="51" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#f0883e">featured · v0.1.0</text>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#c9d1d9">
+<text x="28" y="88">AI agents that answer customers on WhatsApp and email, book, remind and follow up, and ask the owner before</text>
+<text x="28" y="111">anything risky. Packs for clinics, restaurants, salons, real estate, retail, coaching, CA firms and logistics.</text>
+</g>
+<rect x="28.5" y="146.5" width="144" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+<text x="100.0" y="160" class="chip">8 business packs</text>
+<rect x="180.5" y="146.5" width="93" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+<text x="226.5" y="160" class="chip">510 tests</text>
+<rect x="281.5" y="146.5" width="233" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+<text x="397.5" y="160" class="chip">owner approves risky actions</text>
+<rect x="522.5" y="146.5" width="211" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+<text x="627.5" y="160" class="chip">WhatsApp · email · Sheets</text>
+<rect x="741.5" y="146.5" width="159" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+<text x="820.5" y="160" class="chip">English + Hinglish</text>
+<circle cx="1112" cy="46.5" r="6" fill="#3572A5"/>
+<text x="1124" y="51" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">Python</text>
+</svg>

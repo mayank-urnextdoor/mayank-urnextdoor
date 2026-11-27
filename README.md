@@ -13,6 +13,8 @@ I build the plumbing that makes LLMs useful in production. That means servers th
 
 ## Open source
 
+<a href="https://github.com/mayank-urnextdoor/karya-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-karya-ai-dark.svg"><img alt="karya-ai: AI agents that run customer messaging for Indian small businesses and ask the owner before anything risky" src="assets/card-karya-ai-light.svg" width="98.5%"></picture></a>
+
 <p>
   <a href="https://github.com/mayank-urnextdoor/mcp-kit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mcp-kit-dark.svg"><img alt="mcp-kit: production starter kit for MCP servers" src="assets/card-mcp-kit-light.svg" width="49%"></picture></a>
   <a href="https://github.com/mayank-urnextdoor/bharat-rag"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-bharat-rag-dark.svg"><img alt="bharat-rag: Hindi, English and Hinglish Q&A over Indian public documents" src="assets/card-bharat-rag-light.svg" width="49%"></picture></a>
